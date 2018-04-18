@@ -1,0 +1,3 @@
+He creado tres clases Instituto, Alumno, Operacion
+Tanto la tabla Instituto y Alumno tienen una relacion n:1 con la tabla Operacion mediante un integer que me identifica el
+alumno o el intituto con la Operacion que ha realizado.
